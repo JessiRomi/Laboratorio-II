@@ -1,0 +1,19 @@
+.aside{
+    width: 20%;
+    height: 500px;
+    background-color: rgb(104, 106, 106);
+    display: inline-block;
+    
+}
+
+h1{
+    width: 100%;
+    text-align: center;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+}
+
+

@@ -1,0 +1,16 @@
+.footer{
+    width: 100%;
+    height: 50px;
+    background-color: blueviolet;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+
+small {
+    font-family: monospace;
+    margin: 0 auto;
+    display: block;
+    width: max-content;
+    font-size: 1rem;
+}
